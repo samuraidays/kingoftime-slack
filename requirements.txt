@@ -1,0 +1,4 @@
+slack_bolt
+pytz
+requests
+git+https://github.com/shikumiya/airtable_client.git
