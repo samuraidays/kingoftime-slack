@@ -1,7 +1,7 @@
 # kingoftime-slack
 Slackからking of time打刻する
 
-## depoy
+## deploy
 ```
 # pip install slack_bolt
 # pip install python-lambda
